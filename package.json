@@ -1,8 +1,9 @@
 {
   "name": "quickmongo-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of QuickMongo v3 with Updated Dependencies and Security Patches.",
   "main": "index.js",
+  "types": "./typings/index.d.ts",
   "dependencies": {
     "lodash": "^4.17.21",
     "mongoose": "^5.11.15"
